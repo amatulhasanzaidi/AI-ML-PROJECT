@@ -157,7 +157,15 @@ This runs 21 tests covering:
 
 ## 📊 Screenshots
 
-_. _
+<img width="1920" height="1200" alt="Screenshot 2026-09-16 090311" src="https://github.com/user-attachments/assets/7a46f96b-5377-4eda-b3d1-6c8c34dc2bd7" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-09-16 090343" src="https://github.com/user-attachments/assets/19ba9d61-993b-4f8b-8700-ccf913f470da" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-09-16 090515" src="https://github.com/user-attachments/assets/15e77fd2-56a7-4a37-b763-94e4585959dc" />
+
+<img width="840" height="540" alt="model_performance" src="https://github.com/user-attachments/assets/e942673a-f967-4763-be02-cf1363861e41" />
+
+<img width="720" height="480" alt="prediction_distribution" src="https://github.com/user-attachments/assets/c6e6aecb-cdee-49d5-9380-88cb60794804" />
 
 ---
 
