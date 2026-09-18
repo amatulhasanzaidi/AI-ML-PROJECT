@@ -44,9 +44,6 @@ application rather than a single throwaway script.
   a small ML-backed console application (data → model → validated
   prediction → persistence → reporting).
 
-*(This project is not intended for use by patients or clinicians for
-real health decisions.)*
-
 ## High-Level Features
 
 1. **Data Management** — synthetic dataset generation (fixed random
